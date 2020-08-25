@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jackson Dhanyel Santin</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Node.JS, JS, ES6, React and React Native**
+- 🛠 I’m currently learning **Node.JS, JS, ES6, React and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JacksonSantin](https://github.com/JacksonSantin)
 
