@@ -5,7 +5,9 @@
 
 - 💻 Minhas stacks: **PHP, HTML, CSS, JAVA**
 
-- 👨‍💻 Atualmente estou trabalhando em uma empresa especializada em desenvolvimento de site e sistema para imobiliárias. Atuo como programador Front-end.
+- 👨‍💻 Atualmente estou trabalhando em uma empresa especializada em desenvolvimento de site e sistema para imobiliárias. Atuo como programador Front-end
+
+- 💬 Sobre mim: Curto tecnologias, jogos e seriados na Netflix e Amazon Prime
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [https://github.com/JacksonSantin](https://github.com/JacksonSantin)
 
