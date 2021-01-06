@@ -7,7 +7,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [https://github.com/JacksonSantin](https://github.com/JacksonSantin)
 
-- 📫 Como me encontrar? [![Gmail Badge](https://img.shields.io/badge/[removido]-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[removido])](mailto:[removido]) ou [![Linkedin Badge](https://img.shields.io/badge/-JacksonSantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[removido])]([removido])
+- 📫 Como me encontrar? 
+[![Gmail Badge](https://img.shields.io/badge/[removido]-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[removido])](mailto:[removido])
+[![Linkedin Badge](https://img.shields.io/badge/-JacksonSantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[removido])]([removido])
 
 <p align="center">
 <a href="[removido]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dhanyeljack" height="20" width="20" /></a>
