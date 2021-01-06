@@ -8,7 +8,9 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis no [https://github.com/JacksonSantin](https://github.com/JacksonSantin)
 
 - 📫 Como me encontrar? 
+
 [![Gmail Badge](https://img.shields.io/badge/-jackdhanyelsn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackdhanyelsn@gmail.com)](mailto:jackdhanyelsn@gmail.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-JacksonSantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-dhanyel-santin/)](https://www.linkedin.com/in/jackson-dhanyel-santin/)
 
 <p align="center">
