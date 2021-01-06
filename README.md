@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Jackson Dhanyel Santin</h1>
 <h3 align="center">Brasileiro, apaixonado por tecnologia e novas linguagens de programação</h3>
 
-- 🛠 No momento estou aprendendo **Node.JS, JS, ES6, React and React Native**
+- 🛠 No momento estou aprendendo **Node.JS, JS, ES6, React, React Native e Typescript**
+
+- 💻 Minhas stacks: **PHP, HTML, CSS, JAVA**
 
 - 👨‍💻 Atualmente estou trabalhando em uma empresa especializada em desenvolvimento de site e sistema para imobiliárias. Atuo como programador Front-end.
 
