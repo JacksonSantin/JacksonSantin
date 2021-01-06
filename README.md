@@ -9,8 +9,7 @@
 
 - 📫 Como me encontrar? 
 
-[![Gmail Badge](https://img.shields.io/badge/[removido]-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[removido])](mailto:[removido])
-
+[![Gmail Badge](https://img.shields.io/badge/[removido]-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[removido])](mailto:[removido]) ou 
 [![Linkedin Badge](https://img.shields.io/badge/-JacksonSantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[removido])]([removido])
 
 <p align="center">
