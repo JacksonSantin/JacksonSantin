@@ -17,9 +17,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JacksonSantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[removido])]([removido])
 
 <p align="center">
-<a href="[removido]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dhanyeljack" height="20" width="20" /></a>
-<a href="[removido]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jackson-dhanyel-santin" height="20" width="20" /></a>
-<a href="https://fb.com/jackson.santin.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jackson.santin.52" height="20" width="20" /></a>
-<a href="[removido]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jackson_santin" height="20" width="20" /></a>
+<a href="[removido]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dhanyeljack" height="20" width="20" color="#ffffff"/></a>
+<a href="[removido]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jackson-dhanyel-santin" height="20" width="20"  color="#ffffff"/></a>
+<a href="https://fb.com/jackson.santin.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jackson.santin.52" height="20" width="20"  color="#ffffff"/></a>
+<a href="[removido]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jackson_santin" height="20" width="20"  color="#ffffff"/></a>
 </p>
 
