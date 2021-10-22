@@ -11,16 +11,33 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [https://github.com/JacksonSantin](https://github.com/JacksonSantin)
 
-- 📫 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Linkedin)](https://www.linkedin.com/in/jackson-dhanyel-santin/) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.belarr@gmail.com)](mailto:jackdhanyelsn@gmail.com)
+<div align="center">
+  <a href="https://github.com/JacksonSantin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonSantin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSantin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jack-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jack-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jack-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jack-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jack-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Jack-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div> 
+  
+  ##
+  
+  <div align="center"> 
+  <a href="https://instagram.com/jackson_santin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/dhanyeljack" target="_blank"><img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://fb.com/jackson.santin.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jackdhanyelsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jackson-dhanyel-santin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="http://jdssistemas.com/" target="_blank"><img src="https://img.shields.io/badge/-JDS SISTEMAS-333333?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 
-
-<p align="center">
-<a href="https://twitter.com/dhanyeljack" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-32x32.png" alt="dhanyeljack" height="20" width="20"/></a>
-<a href="https://linkedin.com/in/jackson-dhanyel-santin" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png" alt="jackson-dhanyel-santin" height="20" width="20" /></a>
-<a href="https://fb.com/jackson.santin.52" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-32x32.png" alt="jackson.santin.52" height="20" width="20"/></a>
-<a href="https://instagram.com/jackson_santin" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-32x32.png" alt="jackson_santin" height="20" width="20"/></a>
-<a href="http://jdssistemas.com/" target="blank"><img align="center" src="https://github.com/JacksonSantin/curriculum_vitae/blob/master/src/images/logo.png" alt="jdssistemas.com" height="20" width="20"/></a>
-</p>
 
