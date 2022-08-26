@@ -13,6 +13,17 @@
 
 - 🔗 Veja mais sobre mim em [https://jdssistemas.com](https://jdssistemas.com)
 
+<center>
+    <table>
+      <tr>
+          <td>
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=JacksonSantin&count_private=true&hide_border=true&theme=merko" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSantin&hide=html&layout=compact&count_private=true&hide_border=true&theme=merko" />               </td>
+      </tr>
+    </table>
+</center>
   
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
