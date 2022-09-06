@@ -3,7 +3,7 @@
 
 - 🛠 No momento estou aprendendo **Node.JS, JS, ES6, React, React Native, Typescript e VueJS**
 
-- 💻 Minhas stacks: **PHP, HTML, CSS, JAVA**
+- 💻 Minhas stacks: **PHP, HTML, CSS, JAVA, VUE**
 
 - 👨‍💻 Atualmente estou trabalhando na CGI Software, em fase de treinamento para atuar como programador front-end da empresa
 
