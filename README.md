@@ -5,7 +5,7 @@
 
 - 💻 Minhas stacks: **PHP, HTML, CSS, JAVA, VUE**
 
-- 👨‍💻 Atualmente estou trabalhando na CGI Software, em fase de treinamento para atuar como programador front-end da empresa
+- 👨‍💻 Atualmente estou trabalhando na CGI Software, atuando como programador front-end da empresa
 
 - 💬 Sobre mim: Curto tecnologias, jogos e seriados na Netflix e Amazon Prime
 
