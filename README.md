@@ -13,18 +13,6 @@
 
 - 🔗 Veja mais sobre mim em [https://jdssistemas.com](https://jdssistemas.com)
 
-<center>
-    <table>
-      <tr>
-          <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=JacksonSantin&count_private=true&hide_border=true&show_icons=true&theme=codeSTACKr" />
-          </td>
-          <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSantin&hide=html&layout=compact&count_private=true&hide_border=true&show_icons=true&theme=codeSTACKr" />               </td>
-      </tr>
-    </table>
-</center>
-
 ## Status
 ![](./profile-3d-contrib/profile-green-animate.svg)
   
