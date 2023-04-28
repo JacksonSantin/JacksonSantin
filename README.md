@@ -9,7 +9,7 @@
 
 - 💬 Sobre mim: Curto tecnologias, jogos e seriados na Netflix e Amazon Prime
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no [https://github.com/JacksonSantin](https://github.com/JacksonSantin?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis no [https://github.com/JacksonSantin?tab=repositories](https://github.com/JacksonSantin?tab=repositories)
 - 🔗 Veja mais sobre mim em [https://curriculo-vitae-web.web.app](https://curriculo-vitae-web.web.app)
 
 ## Status
