@@ -11,6 +11,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [Github](https://github.com/JacksonSantin?tab=repositories)
 - 🔗 Veja mais sobre mim em [https://curriculo-vitae-web.web.app](https://curriculo-vitae-web.web.app)
+- 🔗 Me acompanhe no [DEV Community](https://dev.to/jacksonsantin)
 
 ## Status
 ![](./profile-3d-contrib/profile-green-animate.svg)
