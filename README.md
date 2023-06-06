@@ -1,9 +1,24 @@
 <h1 align="center">Olá 👋, Eu sou Jackson Dhanyel Santin</h1>
 <h3 align="center">Brasileiro, apaixonado por tecnologia e novas linguagens de programação</h3>
 
-- 🛠 No momento estou aprendendo **Node.JS**, **ES6** e **Typescript**
+###
 
-- 💻 Minhas stacks: **PHP, HTML, CSS, JAVA, VUE, REACT, REACT NATIVE, VueJS, JS**
+<div align="center" style="display: flex;">
+  
+  | 💻 Minhas stacks                                                                                              | 🛠 No momento estou aprendendo                                                                               |
+  | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+  |  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">              | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">     |
+  |  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">          | <img src="https://img.shields.io/badge/ES6-E34F26?style=for-the-badge&logo=es6&logoColor=white">             |
+  |  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">            | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">|
+  |  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">       |
+  |  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">         |
+  |  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  |
+  |  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">|
+  |  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">    |
+  
+</div>
+
+###
 
 - 👨‍💻 Atualmente estou trabalhando na CGI Software, atuando como programador front-end da empresa
 
