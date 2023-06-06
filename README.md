@@ -52,7 +52,9 @@
   <a href = "mailto:jackdhanyelsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jackson-dhanyel-santin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://curriculo-vitae-web.web.app" target="_blank"><img src="https://img.shields.io/badge/Currículum Vitae-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-  <a href="https://dev.to/jacksonsantin" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://dev.to/jacksonsantin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
 </div>
 
 
