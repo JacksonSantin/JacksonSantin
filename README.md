@@ -22,7 +22,7 @@
 
 - 👨‍💻 Atualmente estou trabalhando na CGI Software, atuando como programador front-end da empresa
 
-- 💬 Sobre mim: Curto tecnologias, jogos e seriados na Netflix e Amazon Prime
+- 💬 Sobre mim: Curto tecnologias, jogos e seriados
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [Github](https://github.com/JacksonSantin?tab=repositories)
 - 🔗 Veja mais sobre mim em [Curriculum Vitae - Jackson Dhanyel Santin](https://curriculo-vitae-web.web.app)
