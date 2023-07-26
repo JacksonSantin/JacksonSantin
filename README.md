@@ -25,7 +25,7 @@
 - 💬 Sobre mim: Curto tecnologias, jogos e seriados
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [Github](https://github.com/JacksonSantin?tab=repositories)
-- 🔗 Veja mais sobre mim em [Curriculum Vitae - Jackson Dhanyel Santin](https://curriculo-vitae-web.web.app)
+- 🔗 Veja mais sobre mim em [Curriculum Vitae - Jackson Dhanyel Santin](https://curriculum-vitae-jacksonsantin.vercel.app)
 - 🔗 Me acompanhe no [DEV Community](https://dev.to/jacksonsantin)
 
 ## Status
