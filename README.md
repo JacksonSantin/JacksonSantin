@@ -14,6 +14,10 @@
 - Minhas skills <br/>
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,js,docker,git,vscode,vue,java,php,html,css)](https://skillicons.dev)
 
+###
+
+![JacksonSantin GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonSantin\&show_icons=true\&show=prs_merged,prs_merged_percentage)
+
 ## Status
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
