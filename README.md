@@ -4,7 +4,7 @@
 
 ###
 
-- 👨‍💻 Atualmente estou trabalhando na CGI Software, atuando como programador front-end da empresa
+- 👨‍💻 Atualmente estou trabalhando na **CGI Software**, atuando como programador front-end da empresa
 
 - 💬 Sobre mim: Curto tecnologias, jogos e seriados
 
@@ -21,7 +21,7 @@
 ##
 
 <div align="center">
-   <h3> <strong> Github Status </strong></h3>
+   <h3> <strong> 🏆 Github Status </strong></h3>
   <img src="https://streak-stats.demolab.com?user=JacksonSantin&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=JacksonSantin&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
@@ -31,6 +31,7 @@
   ##
   
   <div align="center"> 
+    <h3> <strong> ✉️ Contato </strong></h3>
   <a href="https://instagram.com/jackson_santin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/dhanyeljack" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <a href="https://fb.com/jackson.santin.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
