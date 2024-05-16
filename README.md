@@ -11,14 +11,21 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [Github](https://github.com/JacksonSantin?tab=repositories)
 - 🔗 Veja mais sobre mim em [About Me - Jackson Dhanyel Santin](https://about-me-jacksonsantin.vercel.app/)
 - 🔗 Me acompanhe no [DEV Community](https://dev.to/jacksonsantin)
-- Minhas skills <br/>
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,js,docker,git,vscode,vue,java,php,html,css)](https://skillicons.dev)
 
-###
+##
+<div align="center">
+  <h3> <strong> Minhas Skills </strong></h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,docker,git,vscode,vue,java,php,html,css" alt="skills logos" />
+</div>
 
-![JacksonSantin GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonSantin\&show_icons=true\&show=prs_merged,prs_merged_percentage)
+##
 
-## Status
+<div align="center">
+   <h3> <strong> Github Status </strong></h3>
+  <img src="https://streak-stats.demolab.com?user=JacksonSantin&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JacksonSantin&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
   ##
