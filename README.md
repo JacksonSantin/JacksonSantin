@@ -9,7 +9,7 @@
 - 💬 Sobre mim: Curto tecnologias, jogos e seriados
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [Github](https://github.com/JacksonSantin?tab=repositories)
-- 🔗 Veja mais sobre mim em [About Me - Jackson Dhanyel Santin](https://about-me-jacksonsantin.vercel.app/)
+- 🔗 Veja mais sobre mim em [About Me - Jackson Dhanyel Santin](https://jackson-santin.dev.br/)
 - 🔗 Me acompanhe no [DEV Community](https://dev.to/jacksonsantin)
 
 ##
@@ -37,7 +37,7 @@
   <a href="https://fb.com/jackson.santin.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jackdhanyelsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jackson-dhanyel-santin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://about-me-jacksonsantin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/About Me-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://jackson-santin.dev.br/" target="_blank"><img src="https://img.shields.io/badge/About Me-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <a href="https://dev.to/jacksonsantin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" alt="devto logo"  />
   </a>
