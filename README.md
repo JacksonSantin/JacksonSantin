@@ -15,7 +15,7 @@
 ##
 <div align="center">
   <h3> <strong> Minhas Skills </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,docker,git,vscode,vue,vuetify,java,php,html,css" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,docker,git,vscode,vue,vuetify,php,html,css" alt="skills logos" />
 </div>
 
 ##
