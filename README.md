@@ -8,9 +8,9 @@
 
 - 💬 Sobre mim: Curto tecnologias, jogos e seriados
 
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui no [Github](https://github.com/JacksonSantin?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui no 
 - 🔗 Veja mais sobre mim em [About Me - Jackson Dhanyel Santin](https://jackson-santin.dev.br/)
-- 🔗 Me acompanhe no [DEV Community](https://dev.to/jacksonsantin)
+- 🔗 Me acompanhe no 
 
 ##
 <div align="center">
