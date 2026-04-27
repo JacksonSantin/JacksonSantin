@@ -25,21 +25,3 @@
 </div> <br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-  ##
-  
-  <div align="center"> 
-    <h3> <strong> ✉️ Contato </strong></h3>
-  <a href="[removido]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="[removido]" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-  <a href="https://fb.com/jackson.santin.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:[removido]"><img src="https://img.shields.io/badge/-Contato-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[removido]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://jackson-santin.dev.br/" target="_blank"><img src="https://img.shields.io/badge/About Me-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-  <a href="https://dev.to/jacksonsantin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" alt="devto logo"  />
-  </a>
-</div>
-
-
-
