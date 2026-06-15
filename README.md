@@ -10,7 +10,6 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no 
 - 🔗 Veja mais sobre mim em [About Me - Jackson Dhanyel Santin](https://jackson-santin.dev.br/)
-- 🔗 Me acompanhe no 
 
 ##
 <div align="center">
